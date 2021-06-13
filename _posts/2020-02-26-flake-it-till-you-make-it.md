@@ -24,7 +24,7 @@ tags: [thesis]
 
 # Log
 
-09.06 => 14:00 - 16:00; 02:00 {code für capacity_buffer, t2_process, t2_process_check, Python: TypeHints, rewrite t2_process in python}
-11.06 => 10:00 - 12: 00, 14:00 - 16:00; 04:00 {simulation anpassung config.py, visualize prediction-failure-signals, t2_node theory update with stress factor}
-12.06 => 10:12 - 12:12; 14:25-16:25; 04:00 {t-2, preemptions proof reading, preemption behaviour, decision support}
-13.06 => 11:00-13:00; 02:00 {}
+* 09.06 => 14:00 - 16:00; 02:00 {code für capacity_buffer, t2_process, t2_process_check, Python: TypeHints, rewrite t2_process in python}
+* 11.06 => 10:00 - 12: 00, 14:00 - 16:00; 04:00 {simulation anpassung config.py, visualize prediction-failure-signals, t2_node theory update with stress factor}
+* 12.06 => 10:12 - 12:12; 14:25-16:25; 04:00 {t-2, preemptions proof reading, preemption behaviour, decision support}
+* 13.06 => 11:00-13:00; 02:00 {}
