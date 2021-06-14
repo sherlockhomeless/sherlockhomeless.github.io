@@ -10,6 +10,7 @@ tags: [thesis]
 
 # master-plan
 
+* updated: 14.06: 12:05
 * Abgabeziel: 20.6
 * Zeit in HH:MM
 
@@ -28,3 +29,4 @@ tags: [thesis]
 * 11.06 => 10:00 - 12: 00, 14:00 - 16:00; 04:00 {simulation anpassung config.py, visualize prediction-failure-signals, t2_node theory update with stress factor}
 * 12.06 => 10:12 - 12:12; 14:25-16:25; 04:00 {t-2, preemptions proof reading, preemption behaviour, decision support}
 * 13.06 => 11:00-13:00, 14:30-16:30; 04:00 {t1 preemption behaviour, implementing free slot search}
+* 14.06 => 10:05-12:05; 02:00 {t2_preemptions, preemption behaviour, tm2 considerations}
