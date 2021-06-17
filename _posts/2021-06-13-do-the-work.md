@@ -17,7 +17,7 @@ tags: [thesis]
 | Aufgabe | Plan-Zeit | Investierte Zeit |
 | -------------- | --------- | ---------- |
 | Einleitung| 08:00 | 00:00 |
-| Theorie schreiben| 16:00 | 12:00 |
+| Theorie schreiben| 16:00 | 18:00 |
 | Implementierung Schreiben| 08:00 | 00:00 |
 | Implementierung Code Abschließen| 16:00 | 00:00 |
 | Evaluation| 16:00 | 00:00 |
@@ -30,3 +30,5 @@ tags: [thesis]
 * 12.06 => 10:12 - 12:12; 14:25-16:25; 04:00 {t-2, preemptions proof reading, preemption behaviour, decision support}
 * 13.06 => 11:00-13:00, 14:30-16:30; 04:00 {t1 preemption behaviour, implementing free slot search}
 * 14.06 => 10:05-12:05; 02:00 {t2_preemptions, preemption behaviour, tm2 considerations}
+* 15.05 => 10:15-12:15; 02:00{}
+* 17.05 => 10:05-12:05; 02:00{tm2_node, differntiating lateness relevant and non-relevant cpu idling}
