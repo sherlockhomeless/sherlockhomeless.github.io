@@ -20,7 +20,7 @@ tags: [thesis]
 | Theorie schreiben| 16:00 | 18:00 |
 | Implementierung Schreiben| 08:00 | 00:00 |
 | Implementierung Code Abschließen| 16:00 | 02:00 |
-| Evaluation| 16:00 | 02:00 |
+| Evaluation| 16:00 | 04:00 |
 | Fazit| 08:00 | 00:00 |
 
 # Log
@@ -36,4 +36,4 @@ tags: [thesis]
 * 21.06 => 10:40-12:40; 14:30-16:30; 04:00 {testsuite ausweiten leider :(helper.PlanFinishedException, level2 handle_free :(}
 * 22.06 => 10:05-12:05; 00:30 { "allgemeine programmierarbeiten ;)",}
 * 28.06 => 10:15-12:15, 13:33-15:33; 04:00 {VRM Architektur, Annahmen, Motivation}
-* 29.06 => 10:15-12:15, 02:00 {Evaluation}
+* 29.06 => 10:15-12:15; 14:00-16:00; 04:00 { Evaluation }
